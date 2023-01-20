@@ -6,6 +6,8 @@ st.image("unnamed.jpg")
 
 st.header("CampusX")
 
+st.subheader("CampusX is an online platform for learning data science")
+
 st.markdown("""
 Programs provided by CampusX
 
@@ -13,3 +15,4 @@ Programs provided by CampusX
 - Data Analytics Mentorship Program
 
 """)
+
