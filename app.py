@@ -14,6 +14,6 @@ Programs provided by CampusX
 - Data Science Mentorship Program
 - Data Analytics Mentorship Program
 - Data Engineering Mentorship Program
-
+- MLOPs
 """)
 
