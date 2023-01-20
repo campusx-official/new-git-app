@@ -16,5 +16,6 @@ Programs provided by CampusX
 - Data Analytics Mentorship Program
 - Data Engineering Mentorship Program
 - MLOPs
+- SQL Fundamentals
 """)
 
